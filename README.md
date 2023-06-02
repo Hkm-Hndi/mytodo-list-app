@@ -5,7 +5,7 @@ Welcome to the MyTodoList Backend repository! This repository contains the backe
 ## Table of Contents
 
 - [Features](#Features)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#Technologies_Used)
 - [Contributing](#Contributing)
 - [Issues](#Issues)
 - [License](#License)
